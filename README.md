@@ -20,7 +20,7 @@ The process of identifying and spotting a criminal is slow and difficult. Crimin
 - Number of images in dataset is 200K images.
 
 #### Dataset Link:
-The project dataset is from [Kaagle] (https://www.kaggle.com/datasets/ashishjangra27/gender-recognition-200k-images-celeba), which contains different faces.....
+The project dataset is from [Kaagle](https://www.kaggle.com/datasets/ashishjangra27/gender-recognition-200k-images-celeba), which contains different faces.....
 
 
 #### The expected (Machine learning / Deep Learning) Algorithms:
