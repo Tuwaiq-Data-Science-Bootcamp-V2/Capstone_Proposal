@@ -17,16 +17,14 @@ The process of identifying and spotting a criminal is slow and difficult. Crimin
 
 
 #### Dataset Description:
-- The number of rows:
-- The number of columns:
-- Columns Description (meaning):
-- The number of Missing values:
+- Number of images in dataset is 200K images.
 
 #### Dataset Link:
-https://www.kaggle.com/datasets/ashishjangra27/gender-recognition-200k-images-celeba
-Note: you have to choose a real dataset that needs to clean and preprocess.
+The project dataset is from [Kaagle] (https://www.kaggle.com/datasets/ashishjangra27/gender-recognition-200k-images-celeba), which contains different faces.....
+
 
 #### The expected (Machine learning / Deep Learning) Algorithms:
+The excepted 
 Write the algorithms that you will fit with your proposed solution.
 
 #### Final Deliverables:
