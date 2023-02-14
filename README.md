@@ -7,12 +7,14 @@
 Write your Capstone Project title.
 
 #### Group Members:
-- First Member
-- Second Member
-- Third Member
+- Razan Alyahya
+- Rahaf Aladhyani
+- Munirah Alsahly
+- Waleed Almutairi
 
 #### Objectives:
-Write your main goal behind this project and the objectives that you need to achieve your goal.
+The process of identifying and spotting a criminal is slow and difficult. Criminals, these days are getting smarter by not leaving any form of biological evidence or fingerprint impressions on the crime scene. A quick and easy solution is using state-of-the-art face identification systems. With the advancement in security technology, CCTV cameras are being installed at most of the buildings and traffic lights for surveillance purposes. The video footage from the camera can be used to identify suspects, criminals, runaways, missing persons etc. This paper explores a way to develop a criminal identification system using ML and deep neural networks. The following method can be used as an elegant way to make law enforcement hassle-free.
+
 
 #### Dataset Description:
 - The number of rows:
