@@ -3,8 +3,8 @@
 
 ### Please edit this README.md file based on your Capstone project idea.
 
-#### Project Title:
-Write your Capstone Project title.
+# Project 1 Title:
+Detecting wanted people in public places using computer vision.
 
 #### Group Members:
 - Razan Alyahya
@@ -13,7 +13,7 @@ Write your Capstone Project title.
 - Waleed Almutairi
 
 #### Objectives:
-The process of identifying and spotting a criminal is slow and difficult. Criminals, these days are getting smarter by not leaving any form of biological evidence or fingerprint impressions on the crime scene. A quick and easy solution is using state-of-the-art face identification systems. With the advancement in security technology, CCTV cameras are being installed at most of the buildings and traffic lights for surveillance purposes. The video footage from the camera can be used to identify suspects, criminals, runaways, missing persons etc. This paper explores a way to develop a criminal identification system using ML and deep neural networks. The following method can be used as an elegant way to make law enforcement hassle-free.
+With the development of technology and the entry of artificial intelligence into our lives, we decided to build a project that helps the Competent Authorities to find the wanted people quickly and easily. The process of idintrying wanted people noww take a long time and effort to increase Security and Saftey in Saudi Arabia.
 
 
 #### Dataset Description:
@@ -24,8 +24,32 @@ The project dataset is from [Kaagle](https://www.kaggle.com/datasets/ashishjangr
 
 
 #### The expected (Machine learning / Deep Learning) Algorithms:
-The excepted 
-Write the algorithms that you will fit with your proposed solution.
+Deep Learning
+
+
+# Project 2 Title:
+Real-Time, Deep Learning Based Wrong Direction Detection.
+
+
+#### Objectives:
+In Hajj and Umrah, we sometimes go through periods of congestion, and the causes of congestion are many. One of the most common reasons is that the pilgrims do not adhere to walking in the correct direction, because there are people walking opposite the direction that causes congestion. In this project, we contribute to reducing congestion by informing the competent authorities about that.
+
+#### Dataset Description:
+
+
+#### Dataset Link:
+
+
+#### The expected (Machine learning / Deep Learning) Algorithms:
+Deep learning.
+
+
+
+#### Links: 
+- http://www.mikelrodriguez.com/crowd-analysis
+- https://www.mdpi.com/2076-3417/10/7/2453
+- https://motchallenge.net/data/MOT20/
+
 
 #### Final Deliverables:
 - README.md file.
