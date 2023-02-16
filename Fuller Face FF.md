@@ -9,7 +9,8 @@ Fuller Face FF
 - Raghad Alsalamah
 
 ## Objectives:
-Detecte customer satisfaied by Facial recognition system  and full  the survey automatically from different expressions of the human face , Surprise, Anger, Happiness, Sad, Neutral.
+- Directed to companies to help them fill out surveys on customer satisfaction in a quick way using a Facial recognition system to be fully automatic from different expressions of the human face, Surprise, Anger, Happiness, Sad, and Neutral.
+
 
 ## Dataset Description:
 
