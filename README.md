@@ -4,15 +4,30 @@
 ### Please edit this README.md file based on your Capstone project idea.
 
 #### Project Title:
-Write your Capstone Project title.
+First idea Title is 'MiQiyas'.
+
+#### Project Title:
+Second idea Title is 'Sign'. <== we will reconsider the name
 
 #### Group Members:
-- First Member
-- Second Member
-- Third Member
+- Alaa 
+- Amjad 
+- Shatha 
 
-#### Objectives:
-Write your main goal behind this project and the objectives that you need to achieve your goal.
+#### Objectives 1st idea:
+MiQiyas will allow high school student to predict whether their dream college will accept them or not based on their grades,
+we need to grant access to Ministry of education data to train our model.
+
+[Similar Idea](https://www.researchgate.net/publication/348637485_Predicting_Student_Admissions_Rate_into_University_Using_Machine_Learning_Models)
+
+#### Objectives 2nd idea:
+Sign will be used at Hajj and Umrah to help the worker there to communicate with people who suffer from hear loss and cannot read Arabic,
+so in order to achive this we need first to translate arabic to needed languge and then show the animation with sign language linked to it,
+in case of arabic Language translation step will be skipped.
+we need to collect sign language 'we need to search more' to build and train our model.
+
+[Similar Idea](https://www.handtalk.me/en/app/)
+
 
 #### Dataset Description:
 - The number of rows:
