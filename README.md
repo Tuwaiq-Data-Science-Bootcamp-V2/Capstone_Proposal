@@ -28,3 +28,6 @@ Write the algorithms that you will fit with your proposed solution.
 
 #### Final Deliverables:
 - README.md file.
+
+
+#### Due Date: Fri, 17 Feb, at 11:00 a.m.
