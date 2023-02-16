@@ -49,6 +49,7 @@ Deep learning.
 - http://www.mikelrodriguez.com/crowd-analysis
 - https://www.mdpi.com/2076-3417/10/7/2453
 - https://motchallenge.net/data/MOT20/
+- https://medium.com/@kaamyakpant_67666/building-a-crowd-counting-model-using-deep-learning-e8b8e925674e
 
 
 #### Final Deliverables:
