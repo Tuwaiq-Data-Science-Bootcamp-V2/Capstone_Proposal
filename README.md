@@ -15,10 +15,10 @@ A Deep-learning Model to classify Skin Diseases based on an input pic from the u
 - The number of Pictures: +20k.
 
 #### Dataset Link:
-- [ISIC (The International Skin Imaging Collaboration)]('https://www.isic-archive.com/#!/topWithHeader/wideContentTop/main')
-- [Dermnet (Kaggle)]('https://www.kaggle.com/datasets/shubhamgoel27/dermnet')
-- [Skin Cancer MNIST: HAM10000 (Kaggle)]('https://www.kaggle.com/datasets/kmader/skin-cancer-mnist-ham10000')
-- [Skin diseases image dataset (Kaggle)]('https://www.kaggle.com/datasets/ismailpromus/skin-diseases-image-dataset')
+- [ISIC (The International Skin Imaging Collaboration)](https://www.isic-archive.com/#!/topWithHeader/wideContentTop/main)
+- [Dermnet (Kaggle)](https://www.kaggle.com/datasets/shubhamgoel27/dermnet)
+- [Skin Cancer MNIST: HAM10000 (Kaggle)](https://www.kaggle.com/datasets/kmader/skin-cancer-mnist-ham10000)
+- [Skin diseases image dataset (Kaggle)](https://www.kaggle.com/datasets/ismailpromus/skin-diseases-image-dataset)
 
 #### The expected Deep Learning Algorithms:
 **The Project** will employ `CNN architecture` for deep learning. A custom CNN arch. will be made or an existing one *that suits the project's data and target*.
