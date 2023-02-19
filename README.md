@@ -1,33 +1,24 @@
 # Capstone Proposal
 
+### Project Title: Skin Disease Classification (DermAi)
 
-### Please edit this README.md file based on your Capstone project idea.
-
-#### Project Title:
-Write your Capstone Project title.
 
 #### Group Members:
-- First Member
-- Second Member
-- Third Member
+- Ali Almuhaysin
+- Khalid Alsumali
+- Mohammed Alshaekh
 
 #### Objectives:
-Write your main goal behind this project and the objectives that you need to achieve your goal.
+A Deep-learning Model to classify Skin Diseases based on an input pic from the user for part of the skin. Finally, gives some info about the classified type of disease from trusted health websites or Wikipedia, gives some advice, and encourages users to visit a dermatologist.
 
 #### Dataset Description:
-- The number of rows:
-- The number of columns:
-- Columns Description (meaning):
-- The number of Missing values:
+- The number of Pictures: +20k.
 
 #### Dataset Link:
-Note: you have to choose a real dataset that needs to clean and preprocess.
+- [ISIC (The International Skin Imaging Collaboration)]('https://www.isic-archive.com/#!/topWithHeader/wideContentTop/main')
+- [Dermnet (Kaggle)]('https://www.kaggle.com/datasets/shubhamgoel27/dermnet')
+- [Skin Cancer MNIST: HAM10000 (Kaggle)]('https://www.kaggle.com/datasets/kmader/skin-cancer-mnist-ham10000')
+- [Skin diseases image dataset (Kaggle)]('https://www.kaggle.com/datasets/ismailpromus/skin-diseases-image-dataset')
 
-#### The expected (Machine learning / Deep Learning) Algorithms:
-Write the algorithms that you will fit with your proposed solution.
-
-#### Final Deliverables:
-- README.md file.
-
-
-#### Due Date: Fri, 17 Feb, at 11:00 a.m.
+#### The expected Deep Learning Algorithms:
+**The Project** will employ `CNN architecture` for deep learning. A custom CNN arch. will be made or an existing one *that suits the project's data and target*.
