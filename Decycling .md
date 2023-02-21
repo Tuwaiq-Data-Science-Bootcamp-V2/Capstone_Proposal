@@ -7,7 +7,7 @@ Decycling
 - Lolo Almuqbil
 - Raghad Alsalamah
 ## Overviwe 
-A garbage detection system is a type of computer vision system designed to automatically detect and classify different types of garbage. The system uses advanced image processing algorithms and machine learning models to analyze images of garbage and classify them based on their type.
+A garbage detection system is a type of computer vision system designed to automatically detect and classify different types of garbage. The system uses advanced image processing algorithms and deep learning models to analyze images of garbage and classify them based on their type.
 
 To classify garbage, the system typically uses a combination of visual and contextual features. For example, the system might analyze the shape, size, color, and texture of different objects in the image to determine their type. It might also use contextual information such as the location, time, and other environmental factors to improve the accuracy of its classification.
 Some common types of garbage that a detection system might be able to classify include plastic, paper, metal, glass, organic waste, and hazardous materials. The system might also be able to identify specific items such as bottles, cans, food waste, and electronic devices.
